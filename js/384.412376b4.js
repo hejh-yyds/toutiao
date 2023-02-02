@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkheima_toutiao"]=self["webpackChunkheima_toutiao"]||[]).push([[384],{8384:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var i=function(){var e=this,t=e._self._c;return t("div",{staticClass:"video-container"},[e._v(" video页面 ")])},a=[],u={name:"videoIndex"},o=u,s=n(1001),r=(0,s.Z)(o,i,a,!1,null,"411875a1",null),c=r.exports}}]);
+//# sourceMappingURL=384.412376b4.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkheima_toutiao"]=self["webpackChunkheima_toutiao"]||[]).push([[9],{5009:function(t,a,n){n.r(a),n.d(a,{default:function(){return l}});var e=function(){var t=this,a=t._self._c;return a("div",{staticClass:"qa-container"},[t._v(" qa页面 ")])},u=[],i={name:"qaIndex"},s=i,r=n(1001),c=(0,r.Z)(s,e,u,!1,null,"2db5f156",null),l=c.exports}}]);
+//# sourceMappingURL=9.c94c06cd.js.map
